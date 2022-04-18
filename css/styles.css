@@ -1,0 +1,18 @@
+body { 
+    background-color: aqua;
+  image-rendering: optimizeQuality;
+  border-image: round;
+  color: blue;
+
+}
+
+p {background-color: beige;
+font-style: italic;
+font-size: medium;
+}
+
+.cd1 {border: brown;
+border-radius: 12mm;
+border: 3in; }
+
+.tur {}
